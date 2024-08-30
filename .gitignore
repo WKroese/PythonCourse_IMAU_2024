@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# folder with previous course
+PythonCourse_IMAU/
+
 # C extensions
 *.so
 
