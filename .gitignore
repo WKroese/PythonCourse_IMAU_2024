@@ -6,6 +6,8 @@ __pycache__/
 # folder with previous course
 PythonCourse_IMAU/
 
+.DS_Store
+
 # C extensions
 *.so
 
