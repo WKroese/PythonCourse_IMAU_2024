@@ -25,9 +25,9 @@ There are four modules covering the following topics:
     - Plotting spatial data, map projections, xarray integration
     - Numerical modelling with python
 
-If you are already familiar with python, you can probably skip the first two modules. Modules 3 and 4 focus on specifics of the field of goesciences, so these modules could prove useful for all students. I will make the workshop materials available in advance, so that you can decide whether there is anything new to you.
+If you are already familiar with python, you can probably skip the first two modules. Modules 2 and 3 focus on specifics of the field of goesciences, so these modules could prove useful for all students. I will make the workshop materials available in advance, so that you can decide whether there is anything new to you.
 
-Module 0 is a take-home assignment that you can do at your own leisure. If you have no experience with python we recommend that you do the entire module. For everyone else, feel free to scroll through the module. There still might be something useful in there (on classes for example). If you have any questions about Module 0 or about python installation, you can ask them during the Module 1 session or you can send me an email (w.s.j.kroese@uu.nl).
+Module 0 is a *take-home assignment* that you can do at your own leisure. If you have no experience with python we recommend that you do the entire module. For everyone else, feel free to scroll through the module. There still might be something useful in there (on classes for example). If you have any questions about Module 0 or about python installation, you can ask them during the Module 1 session or you can send me an email (w.s.j.kroese@uu.nl).
 
 During the workshop I will shortly introduce the content lecture-style, but most of the time is reserved for exercises and questions that may arise. I will sent one more email before the first workshop. The main communication will be through Blackboard.
 
@@ -46,7 +46,7 @@ I will be there from 13:00 for those who need help with their installations.
 
 ## Python/Jupyter installation instructions:
 
-For both the workshop and almost all master courses, you will need to have Python installed on your pc. In the workshops we will work with Jupyter Notebooks. If you have not installed Python and Jupyter yet, please see `Installation of Anaconda and Jupyter Notebook.pdf` for installation instructions.
+For both the workshop and almost all master courses, you will need to have Python installed on your pc. In the workshops we will work with Jupyter Notebooks. If you have not installed Python and Jupyter yet, please see `Installation of Anaconda and Jupyter Notebook.pdf` for installation instructions. Please note that on Friday September 6th there is a python assignment, so make sure you have everything installed before then.
 
 ## Course evaluation
 
